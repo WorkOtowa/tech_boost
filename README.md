@@ -1,2 +1,2 @@
 # tech_boost
-tech boost
+tech boost コース
